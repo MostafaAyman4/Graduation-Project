@@ -1,0 +1,4 @@
+../Src/UART_program.c:14:6:MUSART_voidInit	16	static
+../Src/UART_program.c:46:6:MUSART_voidSendByte	16	static
+../Src/UART_program.c:78:7:MUSART_uint8ReceiveByte	24	static
+../Src/UART_program.c:106:6:MUSART_voidSendWord	24	static

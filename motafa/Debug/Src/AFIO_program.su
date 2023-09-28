@@ -1,0 +1,2 @@
+../Src/AFIO_program.c:16:6:MAFIO_voidInitAFIO	8	static
+../Src/AFIO_program.c:20:6:MAFIO_voidSetEXTIConfiguration	16	static
