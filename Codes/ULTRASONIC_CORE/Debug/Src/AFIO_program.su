@@ -1,0 +1,3 @@
+../Src/AFIO_program.c:17:6:MAFIO_voidInitAFIO	8	static
+../Src/AFIO_program.c:22:6:Mdisable_JTAG	4	static
+../Src/AFIO_program.c:25:6:MAFIO_voidSetEXTIConfiguration	16	static

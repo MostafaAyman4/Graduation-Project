@@ -1,0 +1,3 @@
+../Src/STEPPER_program.c:18:6:HSTEPPER_voidinit	8	static
+../Src/STEPPER_program.c:29:6:HSTEPPER_voidmove	24	static
+../Src/STEPPER_program.c:40:6:HSTEPPER_void_move_1_step	16	static

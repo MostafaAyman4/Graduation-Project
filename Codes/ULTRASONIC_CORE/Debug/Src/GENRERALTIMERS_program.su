@@ -1,0 +1,14 @@
+../Src/GENRERALTIMERS_program.c:15:6:MTimer_voidInitMode	16	static
+../Src/GENRERALTIMERS_program.c:110:6:MTimer_voidIntiateuSDelayHold	24	static
+../Src/GENRERALTIMERS_program.c:145:6:MTimer_voidIntiatemSDelayHold	24	static
+../Src/GENRERALTIMERS_program.c:179:6:MTimer_voidEnableuSDelayInterrupt_once	24	static
+../Src/GENRERALTIMERS_program.c:208:6:MTimer_voidmSEnableDelayInterrupt_once	24	static
+../Src/GENRERALTIMERS_program.c:237:6:MTimer_voidEnableuSDelayInterrupt_repeat	24	static
+../Src/GENRERALTIMERS_program.c:268:6:MTimer_voidmSEnableDelayInterrupt_repeat	24	static
+../Src/GENRERALTIMERS_program.c:297:6:MTimer_voidEnable	16	static
+../Src/GENRERALTIMERS_program.c:312:6:MTimer_voidDisable	16	static
+../Src/GENRERALTIMERS_program.c:326:6:MTIMER_SetPwm_CH_DutyCycle	16	static
+../Src/GENRERALTIMERS_program.c:504:6:MTIMER_DISABLEPwm_CH_DutyCycle	16	static
+../Src/GENRERALTIMERS_program.c:598:6:MTimer_voidInitInputCapture	16	static
+../Src/GENRERALTIMERS_program.c:919:8:MTimer_uint32GetPulseTime	24	static
+../Src/GENRERALTIMERS_program.c:1034:6:MTimer_voidGetPulseFullTimer	24	static

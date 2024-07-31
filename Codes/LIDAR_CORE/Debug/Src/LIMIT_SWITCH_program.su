@@ -1,0 +1,2 @@
+../Src/LIMIT_SWITCH_program.c:18:6:HLIMIT_SW_init	8	static
+../Src/LIMIT_SWITCH_program.c:24:7:HLIMIT_SW_uint8read	8	static

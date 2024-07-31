@@ -1,0 +1,3 @@
+../Src/SPI_program.c:38:6:MSPI_voidInit	2
+../Src/SPI_program.c:79:7:SPI_transmit	5
+../Src/SPI_program.c:105:8:MSPI_uint16EnableTranceive	4

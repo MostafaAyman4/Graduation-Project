@@ -1,2 +1,0 @@
-../Src/SPI_program.c:34:6:MSPI_voidInit	16	static
-../Src/SPI_program.c:81:8:MSPI_uint32EnableTranceive	24	static

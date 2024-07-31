@@ -1,0 +1,8 @@
+../Src/LIDAR_program.c:21:6:HLIDAR_void_init	8	static
+../Src/LIDAR_program.c:40:6:HLIDAR_HOME_voidCALIBRATION	8	static
+../Src/LIDAR_program.c:45:7:HLIDAR_uint8READ_DESIRED_ANGLE	8	static
+../Src/LIDAR_program.c:52:6:HLIDAR_void_SET_ANGLE	24	static
+../Src/LIDAR_program.c:70:6:HLIDAR_void_ANGLE_READY_FLAG_RISE	8	static
+../Src/LIDAR_program.c:73:6:HLIDAR_void_ANGLE_READY_FLAG_DOWN	8	static
+../Src/LIDAR_program.c:77:6:set_base_function	8	static
+../Src/LIDAR_program.c:87:6:refine_base_calibration	16	static

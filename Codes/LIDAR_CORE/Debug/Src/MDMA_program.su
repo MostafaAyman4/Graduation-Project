@@ -1,0 +1,3 @@
+../Src/MDMA_program.c:15:6:MDMA_voidInitChannel	24	static
+../Src/MDMA_program.c:108:6:MDMA_voidEnableChannel	16	static
+../Src/MDMA_program.c:111:6:MDMA_voidDisableChannel	16	static

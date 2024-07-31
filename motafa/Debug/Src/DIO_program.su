@@ -1,6 +1,0 @@
-../Src/DIO_program.c:17:6:MDIO_INIT	16	static
-../Src/DIO_program.c:21:6:MDIO_voidSetDirection	16	static
-../Src/DIO_program.c:78:6:MDIO_voidWrite_D_pin	16	static
-../Src/DIO_program.c:107:7:MDIO_uint8Read_D_pin	16	static
-../Src/DIO_program.c:121:7:MDIO_voidSET_NRMR_pin	16	static
-../Src/DIO_program.c:134:7:MDIO_voidCLR_NRMR_pin	16	static

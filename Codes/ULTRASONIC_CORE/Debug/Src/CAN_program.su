@@ -1,0 +1,6 @@
+../Src/CAN_program.c:33:6:CAN_voidInit	8	static
+../Src/CAN_program.c:118:6:CAN_voidAddTxMsg	24	static
+../Src/CAN_program.c:175:6:CAN_voidStart	4	static
+../Src/CAN_program.c:184:6:CAN_voidGetRxMsg	32	static
+../Src/CAN_program.c:242:7:CAN_voidRXPending	16	static
+../Src/CAN_program.c:258:6:CAN_voidConfigFilter	24	static

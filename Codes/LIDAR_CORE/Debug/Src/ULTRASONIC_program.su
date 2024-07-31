@@ -1,0 +1,4 @@
+../Src/ULTRASONIC_program.c:16:6:HUltrasonic_voidInitIndividual	16	static
+../Src/ULTRASONIC_program.c:125:6:HUltrasonic_voidInitX4	16	static
+../Src/ULTRASONIC_program.c:180:8:HUltrasonic_uint32GetDisIndividual	24	static
+../Src/ULTRASONIC_program.c:259:6:HUltrasonic_uint32GetDisX4	40	static

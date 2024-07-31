@@ -1,0 +1,5 @@
+../Src/BKMOTORS_program.c:19:6:HBKMOTORS_voidinit	16	static
+../Src/BKMOTORS_program.c:48:6:HBKMOTORS_voidRUN	16	static
+../Src/BKMOTORS_program.c:80:6:HBKMOTORS_voidSTOP	16	static
+../Src/BKMOTORS_program.c:95:6:HBMOTORS_voidSetSpeed	16	static
+../Src/BKMOTORS_program.c:108:8:HBMOTORS_uint32GetSpeed	24	static
