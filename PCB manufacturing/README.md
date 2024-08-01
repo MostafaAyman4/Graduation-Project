@@ -2,6 +2,7 @@
 ![IMG_7378](https://github.com/user-attachments/assets/c0d4c2f1-4def-424f-97cf-cc3a0be6e29d)
 Printed Circuit Boards (PCBs) are essential components in electronic devices, providing the necessary platform for mounting and connecting electronic components. One of the DIY-friendly methods for PCB manufacturing is the toner transfer method. This repo outlines the process of manufacturing PCBs using the toner transfer technique, highlighting each step involved.
 1. Design Preparation
+
 1.1 Schematic Capture
 The process begins with designing the circuit schematic using Electronic Design Automation (EDA) software we use EASYEDA. The schematic is a blueprint of the electrical connections and components.
 ![main_Schematic](https://github.com/user-attachments/assets/bdc470ab-c9f0-44b3-b7dc-fc4dae3cfe45)
