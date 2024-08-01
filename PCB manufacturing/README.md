@@ -13,7 +13,7 @@ The schematic is converted into a PCB layout using the same EDA software. This l
 
 2.1 Cleaning
 A copper-clad board, typically made of fiberglass with a layer of copper, is used as the substrate. The copper surface is thoroughly cleaned using fine steel wool or abrasive pads to remove any oxidation and contaminants, ensuring good adhesion of the toner.
-![IMG_7354](https://github.com/user-attachments/assets/6d05812f-57c7-4faf-86c8-a4161e7b5f13)
+![IMG_7354 (1)](https://github.com/user-attachments/assets/c4b60df1-af61-4895-a6d2-db81d67bea3e)
 
 3. Toner Transfer
 3.1 Aligning and Fixing
