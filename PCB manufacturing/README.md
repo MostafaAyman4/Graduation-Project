@@ -4,37 +4,45 @@ Printed Circuit Boards (PCBs) are essential components in electronic devices, pr
 1. Design Preparation
 
 1.1 Schematic Capture
+
 The process begins with designing the circuit schematic using Electronic Design Automation (EDA) software we use EASYEDA. The schematic is a blueprint of the electrical connections and components.
 ![main_Schematic](https://github.com/user-attachments/assets/bdc470ab-c9f0-44b3-b7dc-fc4dae3cfe45)
 
 1.2 Layout Design
+
 The schematic is converted into a PCB layout using the same EDA software. This layout includes the placement of components and routing of copper traces. Once finalized, the layout is printed onto glossy paper or special toner transfer paper using a laser printer.
 2. Substrate Preparation
 ![secondary_Schematic](https://github.com/user-attachments/assets/73a4351d-982e-409a-8036-3926abc09d02)
 
 2.1 Cleaning
+
 A copper-clad board, typically made of fiberglass with a layer of copper, is used as the substrate. The copper surface is thoroughly cleaned using fine steel wool or abrasive pads to remove any oxidation and contaminants, ensuring good adhesion of the toner.
 ![IMG_7354 (1)](https://github.com/user-attachments/assets/c4b60df1-af61-4895-a6d2-db81d67bea3e)
 
 3. Toner Transfer
 3.1 Aligning and Fixing
 The printed design is placed toner-side down onto the cleaned copper-clad board. It is essential to align the design correctly to ensure accurate transfer.
+
 3.2 Toner Transfer
+   
 Using Toner or Acetone to wet the paper with copper layer and with some pressure the ink stick to the copper
  
 3.3 Removing the Paper
+
 the paper is soaked in water to soften it. The paper is then carefully removed, leaving the toner on the copper, which now acts as a resist for the etching process.
  
 4. Etching
+   
 The board is submerged in an etching solution, typically ferric chloride or ammonium persulfate. The solution removes the exposed copper, leaving only the copper traces protected by the toner. This process is done in a well-ventilated area, using appropriate safety measures.
  
-5. Toner Removal
+6. Toner Removal
+   
 After etching, the toner is removed using acetone or isopropyl alcohol, revealing the copper traces that form the circuit.
   
-6. Drilling
+8. Drilling
 A drill press or a handheld drill with fine drill bits is used to create holes for through-hole components and vias. Precision is crucial to ensure proper component placement.
 
-7. Solder Mask Application
+9. Solder Mask Application
 Applying a solder mask to a printed circuit board (PCB) is an essential step in ensuring the board’s durability and reliability. A solder mask protects the copper traces from oxidation, prevents solder bridges during soldering, and improves the overall appearance of the PCB. One effective method for applying a solder mask is using a silk screen frame. This report provides a step-by-step guide on how to create and apply a solder mask using this technique.
 Materials and Tools Needed
 •	Cleaned PCB with exposed copper traces
