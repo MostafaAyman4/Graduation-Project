@@ -1,14 +1,20 @@
 # Manufacturing of PCBS with Solder Mask
+![IMG_7378](https://github.com/user-attachments/assets/c0d4c2f1-4def-424f-97cf-cc3a0be6e29d)
 Printed Circuit Boards (PCBs) are essential components in electronic devices, providing the necessary platform for mounting and connecting electronic components. One of the DIY-friendly methods for PCB manufacturing is the toner transfer method. This repo outlines the process of manufacturing PCBs using the toner transfer technique, highlighting each step involved.
 1. Design Preparation
 1.1 Schematic Capture
 The process begins with designing the circuit schematic using Electronic Design Automation (EDA) software we use EASYEDA. The schematic is a blueprint of the electrical connections and components.
+![main_Schematic](https://github.com/user-attachments/assets/bdc470ab-c9f0-44b3-b7dc-fc4dae3cfe45)
+
 1.2 Layout Design
 The schematic is converted into a PCB layout using the same EDA software. This layout includes the placement of components and routing of copper traces. Once finalized, the layout is printed onto glossy paper or special toner transfer paper using a laser printer.
 2. Substrate Preparation
+![secondary_Schematic](https://github.com/user-attachments/assets/73a4351d-982e-409a-8036-3926abc09d02)
+
 2.1 Cleaning
 A copper-clad board, typically made of fiberglass with a layer of copper, is used as the substrate. The copper surface is thoroughly cleaned using fine steel wool or abrasive pads to remove any oxidation and contaminants, ensuring good adhesion of the toner.
- 
+ ![IMG_7354](https://github.com/user-attachments/assets/507f98c8-dfda-43c1-897c-0605083a755d)
+
 3. Toner Transfer
 3.1 Aligning and Fixing
 The printed design is placed toner-side down onto the cleaned copper-clad board. It is essential to align the design correctly to ensure accurate transfer.
@@ -83,4 +89,4 @@ A through visual inspection is conducted to check for any visible defects such a
 9.2 Electrical Testing
 Basic electrical tests are performed to ensure continuity and correct connections. Multimeters or simple test circuits can be used to verify functionality.
  
-![image](https://github.com/user-attachments/assets/b0c9d7bc-1291-4aba-8e27-70444cb37738)
+
