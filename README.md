@@ -19,12 +19,21 @@ Project Specializations :
  5. 3D design
 
 -I was responsible for these parts
-   •	Project architecture 
+
+   •	Project architecture
+   
    •	All ARM (M3) cores connected together with CAN bus
+   
        1.	Motion layer (back motors and steering system with PID controller)
+       
        2.	Mapping layer (8 ultrasonic sensor runs 4 by 4 parallel)
+       
        3.	Lidar layer (I transform 2D lidar to Work as 3D lidar by I mechanism and codes with equations)
+       
    •	Main core (I write only the MCAL LAYER)
+   
    •	Circuit diagram, PCB design and manufacturing with solder mask
+   
    •	3D designing
+   
 
