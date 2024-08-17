@@ -1,5 +1,4 @@
-# Graduation-Project
-#Self-Driving Car
+# Self-Driving Car
 We have achieved Level 3 on the automotive scale, having successfully passed the first four levels test stages:
 
 Level 0: A pretty simple phase where we manually controlled the car using a mobile application.
