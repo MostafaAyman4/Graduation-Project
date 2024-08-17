@@ -10,8 +10,11 @@ We have achieved Level 3 on the automotive scale, having successfully passed the
 ![IMG_7449](https://github.com/user-attachments/assets/10881f06-8d75-436d-bf8b-88bffbdf2615)
 
 Level 0: A pretty simple phase where we manually controlled the car using a mobile application.
+
 Level 1: Implemented an anti-collision using ultrasonic sensors System to monitor the surrounding environment.
+
 Level 2: The car began to take control of its speed and direction autonomously, implementing lane assistance.
+
 Level 3: The car can now drive itself entirely, determining its destination from the user’s application and using built-in GPS for navigation. It processes a significant amount of data to drive autonomously.
 
 Project Specializations :
