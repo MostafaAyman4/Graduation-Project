@@ -6,6 +6,7 @@
 ********************************************************************************************/
 
 We have achieved Level 3 on the automotive scale, having successfully passed the first four levels test stages:
+
 ![IMG_7449](https://github.com/user-attachments/assets/10881f06-8d75-436d-bf8b-88bffbdf2615)
 
 Level 0: A pretty simple phase where we manually controlled the car using a mobile application.
