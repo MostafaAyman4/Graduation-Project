@@ -1,5 +1,7 @@
 # Self-Driving Car
-/***************************** THIS REPO CONTAIN ONLY MY PARTS *****************************/
+/*******************************************************************************************
+****************************** THIS REPO CONTAINS ONLY MY PARTS *****************************
+********************************************************************************************/
 
 We have achieved Level 3 on the automotive scale, having successfully passed the first four levels test stages:
 ![IMG_7449](https://github.com/user-attachments/assets/10881f06-8d75-436d-bf8b-88bffbdf2615)
@@ -21,9 +23,9 @@ Project Specializations :
 
 -I was responsible for these parts
 
-   •	Project architecture
+    •	Project architecture
    
-   •	All ARM (M3) cores connected together with CAN bus
+    •	All ARM (M3) cores connected together with CAN bus
    
        1.	Motion layer (back motors and steering system with PID controller)
        
@@ -31,15 +33,22 @@ Project Specializations :
        
        3.	Lidar layer (I transform 2D lidar to Work as 3D lidar by I mechanism and codes with equations)
        
-   •	Main core (I write only the MCAL LAYER)
+    •	Main core (I write only the MCAL LAYER)
    
-   •	Circuit diagram, PCB design and manufacturing with solder mask
+    •	Circuit diagram, PCB design and manufacturing with solder mask
    
-   •	3D designing
+    •	3D designing
 
-   Team Members 
+   -Team Members 
+   
      -Mostafa Prince
+     
      -Nagham Nasser
+     
      -Noran Nabil
+     
      -Rodina Mohamed
 
+   ALL DATA IN THIS REPO ARE OPEN SOURCE FEEL FREE TO USE IT TO SHAPE THE NEW FUTURE
+   
+   CONTACT ME IF U NEED ANY HELP @ mostafaaymen109@gmail.com
