@@ -39,7 +39,7 @@ Project Specializations :
        
        3.	Lidar layer (I transform 2D lidar to Work as 3D lidar by I mechanism and codes with equations)
        
-    •	Main core (I write only the MCAL LAYER)
+    •	Main core (I wrote the MCAL Layer and collaborated with Nagham and Noran to design the code’s architecture and algorithms)
    
     •	Circuit diagram, PCB design and manufacturing with solder mask
    
